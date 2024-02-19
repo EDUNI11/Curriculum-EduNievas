@@ -1,0 +1,48 @@
+.container {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 60px;
+  box-sizing: border-box;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 1;
+  background-color: #5b5b5b;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.text-body-secondary {
+  color: white !important;
+}
+
+.faq {
+  text-decoration: none;
+  color: white !important;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-weight: bold;
+}
+
+.faq:hover {
+  transform: scale(1.02);
+}
+
+.iconos {
+  width: 1.5em;
+  height: auto;
+}
+
+.iconos:hover {
+  transform: scale(1.05);
+}
+
+.logo-footer {
+  margin-left: 1em;
+  width: 6em;
+}

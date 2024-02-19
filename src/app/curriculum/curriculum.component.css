@@ -1,0 +1,172 @@
+.generalDiv{
+  width: 100%;
+  height: 100%;
+  min-height: 170vh;
+  display: flex;
+  background-color: white !important;
+  color: black !important;
+}
+
+#leftSide{
+  margin-top: 3em;
+  margin-left: 2em;
+  height: 155vh;
+  padding-left: 2em;
+  padding-right: 2em;
+  width: 25%;
+  background-color: rgba(0, 157, 255, 0.5);
+  border-radius: 12em 12em 0 0;
+  border: 0.01em solid black;
+  box-shadow: rgba(91, 91, 91, 0.54) 10px 5px 5px;
+}
+
+#eduPhoto{
+  width: 100%;
+  margin: auto;
+  margin-top: 1em;
+  border-radius: 50%;
+  height: auto;
+  display: flex;
+  place-items: center;
+  border: 0.1em solid white;
+}
+
+#rol{
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.points{
+  background-color: white;
+  border: 0.01em solid black;
+  border-radius: 50%;
+  width: 1em;
+  height: 1em;
+  float: left;
+}
+
+#point-final{
+  background-color: white;
+  border: 0.01em solid black;
+  border-radius: 50%;
+  width: 1em;
+  height: 1em;
+  float: left;
+  margin-right: .7em;
+  margin-top: .6em;
+}
+
+.titles{
+  width: 75%;
+  margin-left: 1em;
+  line-height: 0.5em;
+}
+
+.info{
+  margin-top: .5em;
+  display: inline-block;
+  margin-left: 2.5em;
+}
+
+#nombre{
+  margin-top: 6em;
+  height: 6em;
+}
+
+#nameUnderline{
+  height: .5em;
+  background-color: black;
+  width: 25em;
+}
+
+ol li {
+  font-weight:bold;
+}
+
+#title-experience{
+  display: inline-block;
+}
+
+#title-formation{
+  display: inline-block;
+}
+
+#title-additionalInformation{
+  display: inline-block;
+}
+
+#experience{
+  margin-top: 19em;
+  margin-left: -57em;
+}
+
+#formation{
+  margin-top: 44em;
+  margin-left: -31.7em;
+}
+
+#additional-information{
+  margin-top: 61em;
+  margin-left: -44.15em;
+}
+
+.line{
+  width: .5em;
+  height: 24em;
+  background-color: lightblue;
+  float: left;
+  position: absolute;
+  margin-left: .3em;
+  margin-top: 1em;
+}
+
+.line2{
+  width: .5em;
+  height: 16em;
+  background-color: lightblue;
+  float: left;
+  position: absolute;
+  margin-left: .3em;
+  margin-top: 1em;
+}
+
+.line3{
+  width: .5em;
+  height: 14.2em;
+  background-color: lightblue;
+  float: left;
+  position: absolute;
+  margin-left: .3em;
+  margin-top: 1em;
+}
+
+.info-experience{
+  margin-top: .5em;
+  margin-left: 2em;
+}
+
+.info-additionalInformation{
+  margin-top: .5em;
+  margin-left: 2em;
+}
+
+#adicional-info{
+  margin-top: 12em;
+  margin-left: -22em;
+  width: 60%;
+  text-align: justify;
+}
+
+.info-formation{
+  margin-top: .5em;
+  margin-left: 2em;
+}
+
+#title{
+  margin-left: .5em;
+  margin-top: -.4em;
+}
+
+ol li span {
+  font-weight:normal;
+}

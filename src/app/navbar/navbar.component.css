@@ -1,0 +1,21 @@
+.bg-light{
+  background-color: #5b5b5b !important;
+}
+
+.logo-pagina{
+  width: 4em;
+  margin-left: 1em;
+}
+
+.nav-link{
+  color: white !important;
+  font-weight: bold;
+}
+
+.nav-link:hover{
+  transform: scale(1.02);
+}
+
+.navbar-toggler-icon{
+  color: white !important;
+}
